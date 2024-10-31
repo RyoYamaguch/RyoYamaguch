@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyoYamaguch
-- 👀 I’m interested in ...Statics,ML,RPA
+- 👀 I’m interested in ...Statics,ML
 - 🌱 I’m currently learning ...Python,R,SQL,GAS
 - 📫 How to reach me ...Send a e-mail ymgc5116@gmail.com
 - ⚡ Fun fact: ...Motorcycle🏍,Trip abroad 🛫
